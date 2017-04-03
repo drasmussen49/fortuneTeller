@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\bin\Debug\fortuneTellerWeek1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\bin\Debug\fortuneTellerWeek1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\bin\Debug\fortuneTellerWeek1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.pdb
