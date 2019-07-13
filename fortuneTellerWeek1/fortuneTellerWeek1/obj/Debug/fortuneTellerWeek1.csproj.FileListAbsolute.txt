@@ -4,3 +4,10 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fo
 c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.csprojResolveAssemblyReference.cache
 c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.exe
 c:\users\wecancodeit\documents\visual studio 2015\Projects\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.pdb
+C:\Users\Dan\source\repos\fortuneTeller\fortuneTellerWeek1\fortuneTellerWeek1\bin\Debug\fortuneTellerWeek1.exe.config
+C:\Users\Dan\source\repos\fortuneTeller\fortuneTellerWeek1\fortuneTellerWeek1\bin\Debug\fortuneTellerWeek1.exe
+C:\Users\Dan\source\repos\fortuneTeller\fortuneTellerWeek1\fortuneTellerWeek1\bin\Debug\fortuneTellerWeek1.pdb
+C:\Users\Dan\source\repos\fortuneTeller\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\fortuneTeller\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\fortuneTeller\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.exe
+C:\Users\Dan\source\repos\fortuneTeller\fortuneTellerWeek1\fortuneTellerWeek1\obj\Debug\fortuneTellerWeek1.pdb

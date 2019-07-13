@@ -22,20 +22,63 @@ namespace fortuneTellerWeek1
 
 
             // Ask for first and last name
+            string firstName;
+            string lastName;
+            string fullName;
+            Console.WriteLine("What is your first name?");
+            firstName = Console.ReadLine();
+            Console.WriteLine("What is your last name?");
+            lastName = Console.ReadLine();
+            Console.WriteLine("What is your full name?");
+            fullName = firstName + " " + lastName;
+            Console.WriteLine("Is " + fullName + " your full name?");
+            Console.ReadLine();
 
 
             // Ask for age
-
+            int? age;
+            Console.WriteLine("How old are you?");
+            age = Convert.ToInt32(Console.ReadLine());
 
             // Ask birth month as int
-
+            int birthMonth;
+            Console.WriteLine("What is your birth month, as a number 1 through 12?");
+            birthMonth = Convert.ToInt32(Console.ReadLine());
 
             // Ask for ROYGBI(indigo)V fav color; if w/ "help" (quotes in console)
             // set car model
 
             Console.WriteLine("What is your favorite color of ROYGBIV? - If you do not know ROYGBIV, type \"Help\"");
             // use a switch statement for this
+            string carModel;
+            string colorChoice = Console.ReadLine().ToLower();
 
+            switch (colorChoice)
+            {
+                case "help":
+                    Console.WriteLine("ROYGBIV is Red, Orange, Yellow, Green, Blue, Indigo or Violet");
+                    Console.WriteLine("What is your favorite color of ROYGBIV?");
+                    colorChoice = Console.ReadLine().ToLower();
+                    break;
+                default:
+                    break;
+            }
+            switch (colorChoice)
+            {
+                case "red":
+                    carModel = "Miata";
+                    break;
+                case "green":
+                    carModel = "Corvette";
+                    break;
+                case "blue":
+                    carModel = "BRZ";
+                    break;
+
+                default:
+                    carModel = "Corolla";
+                    break;
+            }
 
             // How many siblings?
 
@@ -57,7 +100,7 @@ namespace fortuneTellerWeek1
             // Print output
 
             Console.WriteLine("Your fortune is as follows: ");
-
+            Console.ReadLine();
         }
     }
 }
